@@ -1,0 +1,17 @@
+C:\Users\Ale Betancourth\Downloads\Examen-3-master\MP2_Examen\PM2_Examen\PM2_Examen\bin\Debug\netstandard2.0\PM2_Examen.deps.json
+C:\Users\Ale Betancourth\Downloads\Examen-3-master\MP2_Examen\PM2_Examen\PM2_Examen\bin\Debug\netstandard2.0\PM2_Examen.dll
+C:\Users\Ale Betancourth\Downloads\Examen-3-master\MP2_Examen\PM2_Examen\PM2_Examen\bin\Debug\netstandard2.0\ref\PM2_Examen.dll
+C:\Users\Ale Betancourth\Downloads\Examen-3-master\MP2_Examen\PM2_Examen\PM2_Examen\bin\Debug\netstandard2.0\PM2_Examen.pdb
+C:\Users\Ale Betancourth\Downloads\Examen-3-master\MP2_Examen\PM2_Examen\PM2_Examen\obj\Debug\netstandard2.0\PM2_Examen.csproj.AssemblyReference.cache
+C:\Users\Ale Betancourth\Downloads\Examen-3-master\MP2_Examen\PM2_Examen\PM2_Examen\obj\Debug\netstandard2.0\PM2_Examen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ale Betancourth\Downloads\Examen-3-master\MP2_Examen\PM2_Examen\PM2_Examen\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Ale Betancourth\Downloads\Examen-3-master\MP2_Examen\PM2_Examen\PM2_Examen\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Ale Betancourth\Downloads\Examen-3-master\MP2_Examen\PM2_Examen\PM2_Examen\obj\Debug\netstandard2.0\Views\ListaPagos.xaml.g.cs
+C:\Users\Ale Betancourth\Downloads\Examen-3-master\MP2_Examen\PM2_Examen\PM2_Examen\obj\Debug\netstandard2.0\Views\VistaAgregar.xaml.g.cs
+C:\Users\Ale Betancourth\Downloads\Examen-3-master\MP2_Examen\PM2_Examen\PM2_Examen\obj\Debug\netstandard2.0\PM2_Examen.AssemblyInfoInputs.cache
+C:\Users\Ale Betancourth\Downloads\Examen-3-master\MP2_Examen\PM2_Examen\PM2_Examen\obj\Debug\netstandard2.0\PM2_Examen.AssemblyInfo.cs
+C:\Users\Ale Betancourth\Downloads\Examen-3-master\MP2_Examen\PM2_Examen\PM2_Examen\obj\Debug\netstandard2.0\PM2_Examen.csproj.CoreCompileInputs.cache
+C:\Users\Ale Betancourth\Downloads\Examen-3-master\MP2_Examen\PM2_Examen\PM2_Examen\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Ale Betancourth\Downloads\Examen-3-master\MP2_Examen\PM2_Examen\PM2_Examen\obj\Debug\netstandard2.0\PM2_Examen.dll
+C:\Users\Ale Betancourth\Downloads\Examen-3-master\MP2_Examen\PM2_Examen\PM2_Examen\obj\Debug\netstandard2.0\ref\PM2_Examen.dll
+C:\Users\Ale Betancourth\Downloads\Examen-3-master\MP2_Examen\PM2_Examen\PM2_Examen\obj\Debug\netstandard2.0\PM2_Examen.pdb
